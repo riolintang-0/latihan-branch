@@ -1,2 +1,3 @@
 # latihan-branch
-menguji merge konflik
+menguji merge conflict
+
